@@ -16,7 +16,7 @@ Best practice is to have one virtual environment for each project. If 313 assign
 
 If managing local Python environments isn't working, or you just don't want to, you can also use Google Colab to complete assignments. Here's a general workflow:
 
-1. Open colab
+1. Open [Google Colab](https://colab.research.google.com/)
 2. Choose File → Open notebook → GitHub → (enter this GitHub repo's address) → choose the assignment template you want to work on
 3. In Colab, complete the assignment
 4. Choose File → Download → Download .ipynb
