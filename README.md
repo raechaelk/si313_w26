@@ -1,6 +1,12 @@
 # si313_w26
 Repo for SI 313 Introduction to Quantitative Methods
 
+## Last Updated Notes
+
+Updated on Feb 4, 2026
+- Added template for Readymade Data Module assignment
+- Added a tutorial for using `pandas` to read, clean and manipulate data in `/lecture_notebooks` folder.
+
 ## How to use this repo
 
 This repo contains the lecture notes, class demo notebooks and the assignment templates. You can clone this repo to your local machine then copy the files into another folder. You **cannot** commit or push any changes to this repo. 
